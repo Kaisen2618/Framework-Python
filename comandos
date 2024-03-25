@@ -1,0 +1,4 @@
+Comandos utilizados:
+
+pip install -r requirements.txt   
+pip install Flask  
